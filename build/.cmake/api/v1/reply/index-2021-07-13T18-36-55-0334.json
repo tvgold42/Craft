@@ -1,0 +1,31 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Unix Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "/opt/homebrew/Cellar/cmake/3.20.5/bin/cmake",
+			"cpack" : "/opt/homebrew/Cellar/cmake/3.20.5/bin/cpack",
+			"ctest" : "/opt/homebrew/Cellar/cmake/3.20.5/bin/ctest",
+			"root" : "/opt/homebrew/Cellar/cmake/3.20.5/share/cmake"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 20,
+			"patch" : 5,
+			"string" : "3.20.5",
+			"suffix" : ""
+		}
+	},
+	"objects" : [],
+	"reply" : 
+	{
+		"client-vscode" : {}
+	}
+}

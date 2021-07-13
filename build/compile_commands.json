@@ -1,0 +1,327 @@
+[
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/auth.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/auth.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/auth.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/client.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/client.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/client.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/cube.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/cube.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/cube.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/db.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/db.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/db.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/item.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/item.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/item.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/main.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/main.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/main.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/map.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/map.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/map.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/matrix.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/matrix.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/matrix.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/ring.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/ring.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/ring.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/sign.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/sign.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/sign.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/util.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/util.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/util.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/src/world.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/src/world.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/src/world.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/deps/glew/src/glew.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/src/glew.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/src/glew.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/deps/lodepng/lodepng.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng/lodepng.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng/lodepng.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/deps/noise/noise.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise/noise.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise/noise.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/deps/sqlite/sqlite3.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite/sqlite3.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite/sqlite3.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glew/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/lodepng -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/noise -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/sqlite -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -o CMakeFiles/craft.dir/deps/tinycthread/tinycthread.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread/tinycthread.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/tinycthread/tinycthread.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/context.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/context.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/context.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/init.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/init.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/init.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/input.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/input.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/input.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/monitor.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/monitor.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/window.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/window.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/window.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/cocoa_init.m",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/cocoa_init.m"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/cocoa_monitor.m",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/cocoa_monitor.m"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/cocoa_window.m",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/cocoa_window.m"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/iokit_joystick.m.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/iokit_joystick.m",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/iokit_joystick.m"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/mach_time.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/mach_time.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/mach_time.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/posix_tls.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/posix_tls.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/posix_tls.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src -I/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -fPIC   -std=c99 -O3 -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/nsgl_context.m",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/src/nsgl_context.m"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/heightmap.dir/heightmap.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/heightmap.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/heightmap.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/heightmap.dir/__/deps/glad.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/glad.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/glad.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/wave.dir/wave.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/wave.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/wave.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/splitview.dir/splitview.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/splitview.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/splitview.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/simple.dir/simple.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/simple.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/simple.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/particles.dir/particles.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/particles.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/particles.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/particles.dir/__/deps/tinycthread.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/tinycthread.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/tinycthread.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/particles.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/gears.dir/gears.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/gears.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/gears.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/examples",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/boing.dir/boing.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/boing.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/examples/boing.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/windows.dir/windows.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/windows.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/windows.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/title.dir/title.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/title.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/title.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/threads.dir/threads.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/threads.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/threads.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/threads.dir/__/deps/tinycthread.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/tinycthread.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/tinycthread.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/tearing.dir/tearing.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/tearing.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/tearing.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/tearing.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/empty.dir/empty.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/empty.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/empty.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/empty.dir/__/deps/tinycthread.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/tinycthread.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/tinycthread.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/glfwinfo.dir/glfwinfo.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/glfwinfo.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/glfwinfo.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/glfwinfo.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/cursor.dir/cursor.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/cursor.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/cursor.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/monitors.dir/monitors.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/monitors.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/monitors.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/monitors.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/reopen.dir/reopen.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/reopen.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/reopen.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/joysticks.dir/joysticks.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/joysticks.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/joysticks.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/events.dir/events.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/events.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/events.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/events.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/iconify.dir/iconify.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/iconify.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/iconify.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/iconify.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/gamma.dir/gamma.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/gamma.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/gamma.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/gamma.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/sharing.dir/sharing.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/sharing.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/sharing.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/msaa.dir/msaa.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/msaa.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/msaa.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/msaa.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/clipboard.dir/clipboard.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/clipboard.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/tests/clipboard.c"
+},
+{
+  "directory": "/Users/alisdair/Documents/GitHub/Craft_libretro/build/deps/glfw/tests",
+  "command": "/usr/bin/clang  -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/include -I/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk   -std=c99 -O3 -Wall -o CMakeFiles/clipboard.dir/__/deps/getopt.c.o -c /Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c",
+  "file": "/Users/alisdair/Documents/GitHub/Craft_libretro/deps/glfw/deps/getopt.c"
+}
+]
